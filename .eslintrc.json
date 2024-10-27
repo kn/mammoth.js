@@ -48,6 +48,7 @@
     "no-array-constructor": ["error"],
     "no-continue": ["error"],
     "no-lonely-if": ["error"],
+    "no-console": ["never"],
     "no-multiple-empty-lines": ["error", {"max": 2, "maxEOF": 1}],
     "no-new-object": ["error"],
     "no-spaced-func": ["error"],
