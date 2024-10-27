@@ -37,6 +37,7 @@
     "hamjest": "^4.0.1",
     "mocha": "~2.2.5",
     "temp": "^0.9.4",
+    "terser": "^5.36.0",
     "typescript": "^5.0.4",
     "uglify-js": "~2.4.8"
   },
